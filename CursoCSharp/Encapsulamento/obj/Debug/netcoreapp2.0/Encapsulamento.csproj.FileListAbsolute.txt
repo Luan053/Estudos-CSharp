@@ -17,3 +17,13 @@ C:\Users\luanr\Desktop\Projetos\curso-c-sharp\CursoCSharp\Encapsulamento\obj\Deb
 C:\Users\luanr\Desktop\Projetos\curso-c-sharp\CursoCSharp\Encapsulamento\obj\Debug\netcoreapp2.0\Encapsulamento.csproj.CoreCompileInputs.cache
 C:\Users\luanr\Desktop\Projetos\curso-c-sharp\CursoCSharp\Encapsulamento\obj\Debug\netcoreapp2.0\Encapsulamento.dll
 C:\Users\luanr\Desktop\Projetos\curso-c-sharp\CursoCSharp\Encapsulamento\obj\Debug\netcoreapp2.0\Encapsulamento.pdb
+C:\Users\luanr\Desktop\Projetos\Estudos-CSharp\CursoCSharp\Encapsulamento\bin\Debug\netcoreapp2.0\Encapsulamento.deps.json
+C:\Users\luanr\Desktop\Projetos\Estudos-CSharp\CursoCSharp\Encapsulamento\bin\Debug\netcoreapp2.0\Encapsulamento.dll
+C:\Users\luanr\Desktop\Projetos\Estudos-CSharp\CursoCSharp\Encapsulamento\bin\Debug\netcoreapp2.0\Encapsulamento.pdb
+C:\Users\luanr\Desktop\Projetos\Estudos-CSharp\CursoCSharp\Encapsulamento\obj\Debug\netcoreapp2.0\Encapsulamento.csproj.AssemblyReference.cache
+C:\Users\luanr\Desktop\Projetos\Estudos-CSharp\CursoCSharp\Encapsulamento\obj\Debug\netcoreapp2.0\Encapsulamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luanr\Desktop\Projetos\Estudos-CSharp\CursoCSharp\Encapsulamento\obj\Debug\netcoreapp2.0\Encapsulamento.AssemblyInfoInputs.cache
+C:\Users\luanr\Desktop\Projetos\Estudos-CSharp\CursoCSharp\Encapsulamento\obj\Debug\netcoreapp2.0\Encapsulamento.AssemblyInfo.cs
+C:\Users\luanr\Desktop\Projetos\Estudos-CSharp\CursoCSharp\Encapsulamento\obj\Debug\netcoreapp2.0\Encapsulamento.csproj.CoreCompileInputs.cache
+C:\Users\luanr\Desktop\Projetos\Estudos-CSharp\CursoCSharp\Encapsulamento\obj\Debug\netcoreapp2.0\Encapsulamento.dll
+C:\Users\luanr\Desktop\Projetos\Estudos-CSharp\CursoCSharp\Encapsulamento\obj\Debug\netcoreapp2.0\Encapsulamento.pdb

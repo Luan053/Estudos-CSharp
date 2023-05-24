@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\luanr\\Desktop\\Projetos\\curso-c-sharp\\CursoCSharp\\CursoCSharp\\CursoCSharp.csproj": {}
+    "C:\\Users\\luanr\\Desktop\\Projetos\\Estudos-CSharp\\CursoCSharp\\CursoCSharp\\CursoCSharp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\luanr\\Desktop\\Projetos\\curso-c-sharp\\CursoCSharp\\CursoCSharp\\CursoCSharp.csproj": {
+    "C:\\Users\\luanr\\Desktop\\Projetos\\Estudos-CSharp\\CursoCSharp\\CursoCSharp\\CursoCSharp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\luanr\\Desktop\\Projetos\\curso-c-sharp\\CursoCSharp\\CursoCSharp\\CursoCSharp.csproj",
+        "projectUniqueName": "C:\\Users\\luanr\\Desktop\\Projetos\\Estudos-CSharp\\CursoCSharp\\CursoCSharp\\CursoCSharp.csproj",
         "projectName": "CursoCSharp",
-        "projectPath": "C:\\Users\\luanr\\Desktop\\Projetos\\curso-c-sharp\\CursoCSharp\\CursoCSharp\\CursoCSharp.csproj",
+        "projectPath": "C:\\Users\\luanr\\Desktop\\Projetos\\Estudos-CSharp\\CursoCSharp\\CursoCSharp\\CursoCSharp.csproj",
         "packagesPath": "C:\\Users\\luanr\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\luanr\\Desktop\\Projetos\\curso-c-sharp\\CursoCSharp\\CursoCSharp\\obj\\",
+        "outputPath": "C:\\Users\\luanr\\Desktop\\Projetos\\Estudos-CSharp\\CursoCSharp\\CursoCSharp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\luanr\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "netcoreapp2.0": {
             "targetAlias": "netcoreapp2.0",
             "projectReferences": {
-              "C:\\Users\\luanr\\Desktop\\Projetos\\curso-c-sharp\\CursoCSharp\\Encapsulamento\\Encapsulamento.csproj": {
-                "projectPath": "C:\\Users\\luanr\\Desktop\\Projetos\\curso-c-sharp\\CursoCSharp\\Encapsulamento\\Encapsulamento.csproj"
+              "C:\\Users\\luanr\\Desktop\\Projetos\\Estudos-CSharp\\CursoCSharp\\Encapsulamento\\Encapsulamento.csproj": {
+                "projectPath": "C:\\Users\\luanr\\Desktop\\Projetos\\Estudos-CSharp\\CursoCSharp\\Encapsulamento\\Encapsulamento.csproj"
               }
             }
           }
@@ -66,14 +66,14 @@
         }
       }
     },
-    "C:\\Users\\luanr\\Desktop\\Projetos\\curso-c-sharp\\CursoCSharp\\Encapsulamento\\Encapsulamento.csproj": {
+    "C:\\Users\\luanr\\Desktop\\Projetos\\Estudos-CSharp\\CursoCSharp\\Encapsulamento\\Encapsulamento.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\luanr\\Desktop\\Projetos\\curso-c-sharp\\CursoCSharp\\Encapsulamento\\Encapsulamento.csproj",
+        "projectUniqueName": "C:\\Users\\luanr\\Desktop\\Projetos\\Estudos-CSharp\\CursoCSharp\\Encapsulamento\\Encapsulamento.csproj",
         "projectName": "Encapsulamento",
-        "projectPath": "C:\\Users\\luanr\\Desktop\\Projetos\\curso-c-sharp\\CursoCSharp\\Encapsulamento\\Encapsulamento.csproj",
+        "projectPath": "C:\\Users\\luanr\\Desktop\\Projetos\\Estudos-CSharp\\CursoCSharp\\Encapsulamento\\Encapsulamento.csproj",
         "packagesPath": "C:\\Users\\luanr\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\luanr\\Desktop\\Projetos\\curso-c-sharp\\CursoCSharp\\Encapsulamento\\obj\\",
+        "outputPath": "C:\\Users\\luanr\\Desktop\\Projetos\\Estudos-CSharp\\CursoCSharp\\Encapsulamento\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\luanr\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ifm0q4oQlemYgjBiH0OrvZgbbFhpRC2isj9SP+M16SNY3CdE5rTYh1OIyp76wcFSG0m9wHxEy0H9ZNvEbdyW1w==",
+  "dgSpecHash": "92ysZUJFUd94JJLiAgL0xLyqCOLCxG+zytOnAlORwr9PqgROMwxbRCwDMdj9HJhllZSNyfsIfrSUV9x3UReS4A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\luanr\\Desktop\\Projetos\\curso-c-sharp\\CursoCSharp\\Encapsulamento\\Encapsulamento.csproj",
+  "projectFilePath": "C:\\Users\\luanr\\Desktop\\Projetos\\Estudos-CSharp\\CursoCSharp\\Encapsulamento\\Encapsulamento.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\luanr\\.nuget\\packages\\microsoft.netcore.app\\2.0.0\\microsoft.netcore.app.2.0.0.nupkg.sha512",
     "C:\\Users\\luanr\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.0.0\\microsoft.netcore.dotnetapphost.2.0.0.nupkg.sha512",
