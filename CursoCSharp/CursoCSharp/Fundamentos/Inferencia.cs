@@ -6,21 +6,18 @@ namespace CursoCSharp.Fundamentos
 {
     class Inferencia
     {
-        public static void Executar() {
-            var nome = "Leonardo";
-            // nome = 123;
-            Console.WriteLine(nome);
+      public static void Executar()
+      {
+        var nome = "Lucas";
+        nome = "Luan";
+        Console.WriteLine(nome);
 
-            // int idade;
-            var idade = 32;
-            Console.WriteLine(idade);
+        int a;
+        a = 3;
 
-            int a;
-            a = 3;
+        int b = 2;
 
-            int b = 2;
-
-            Console.WriteLine(a + b);
-        }
+        Console.WriteLine(a + b);
+      }
     }
 }
